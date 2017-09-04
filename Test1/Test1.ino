@@ -33,5 +33,4 @@ void loop() {
     btSerial.write(input);
     Serial.write(input);
   }
-
 }
